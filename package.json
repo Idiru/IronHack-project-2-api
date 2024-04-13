@@ -8,9 +8,6 @@
     "start": "json-server --watch api/db.json"
     
   },
-  "engines": {
-    "node": "16.x"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
