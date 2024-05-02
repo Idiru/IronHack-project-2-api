@@ -126,6 +126,140 @@
             "item_image_url": "https://images.unsplash.com/photo-1542601600647-3a722a90a76b?w=800",
             "item_care": "Lorem ipsum dolor sit amet consectetur adipiscing elit velit nullam, metus curabitur laoreet nisl ornare molestie habitant dapibus purus, accumsan magna aliquam auctor leo consequat dignissim mus.",
             "item_stock": 9
+        },
+        {
+            "item_id": "L04",
+            "item_name": "pets",
+            "item_category": "pet food",
+            "item_description": "Sachet de croquettes sèches pour chats, enrichies en vitamines et minéraux essentiels pour une alimentation équilibrée. Convient aux chats adultes de toutes races.",
+            "item_price": "€12.50",
+            "item_size": ["500g", "1kg", "2kg"],
+            "item_color": "Multi",
+            "item_origin": "Made in France",
+            "item_brand": "Purina",
+            "item_image_url": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGV0JTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+            "item_care": "Conserver dans un lieu frais et sec à l'abri de la lumière directe du soleil.",
+            "item_stock": 20
+        },
+
+        {
+            "item_id": "L05",
+            "item_name": "pets",
+            "item_category": "pet food",
+            "item_description": "Boîte de pâtée pour chiens, avec morceaux de viande tendre en sauce, pour chiens adultes. Fournit une alimentation complète et équilibrée.",
+            "item_price": "€15.00",
+            "item_size": ["400g", "800g"],
+            "item_color": "Brown",
+            "item_origin": "Made in Germany",
+            "item_brand": "Pedigree",
+            "item_image_url": "https://images.unsplash.com/photo-1571873735645-1ae72b963024?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGV0JTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+            "item_care": "Conserver au réfrigérateur après ouverture et consommer dans les 3 jours.",
+            "item_stock": 15
+        }, 
+        {
+            "item_id": "L06",
+            "item_name": "Comfy Pet Bed",
+            "item_category": "pets",
+            "item_description": "Lit douillet pour chiens et chats, en tissu ultra-doux et base antidérapante, idéal pour garantir un sommeil paisible à votre animal.",
+            "item_price": "€40.00",
+            "item_size": ["Small", "Medium", "Large"],
+            "item_color": "Grey",
+            "item_origin": "Made in Italy",
+            "item_brand": "Furhaven",
+            "item_image_url": "https://images.unsplash.com/photo-1600369671236-e74521d4b6ad?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGV0JTIwYmVkfGVufDB8fDB8fHww",
+            "item_care": "Lavable en machine à basse température.",
+            "item_stock": 10
+        },
+        {
+            "item_id": "L07",
+            "item_name": "Beauty Palette",
+            "item_category": "body",
+            "item_description": "Palette de maquillage complète avec une variété de couleurs pour les yeux, les joues et les lèvres. Idéale pour tous les types de peau.",
+            "item_price": "€45.00",
+            "item_size": ["One Size"],
+            "item_color": "Multi",
+            "item_origin": "Made in USA",
+            "item_brand": "Sephora",
+            "item_image_url": "https://images.unsplash.com/photo-1617897903246-719242758050?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNvc21ldGljc3xlbnwwfHwwfHx8MA%3D%3D",
+            "item_care": "Éviter l'exposition directe au soleil et à la chaleur.",
+            "item_stock": 30
+        },
+        {
+            "item_id": "L08",
+            "item_name": "Luxury Lipstick",
+            "item_category": "body",
+            "item_description": "Rouge à lèvres longue tenue, disponible en plusieurs teintes vibrantes. Enrichi en vitamines pour nourrir les lèvres.",
+            "item_price": "€30.00",
+            "item_size": ["One Size"],
+            "item_color": "Red",
+            "item_origin": "Made in France",
+            "item_brand": "Chanel",
+            "item_image_url": "https://plus.unsplash.com/premium_photo-1678449465143-836001feabdf?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y29zbWV0aWNzfGVufDB8fDB8fHww",
+            "item_care": "Conserver dans un endroit frais et sec.",
+            "item_stock": 25
+        },
+        {
+            "item_id": "L09",
+            "item_name": "Volume Mascara",
+            "item_category": "body",
+            "item_description": "Mascara volumisant pour des cils épais et longs. Formule résistante à l'eau.",
+            "item_price": "€22.00",
+            "item_size": ["One Size"],
+            "item_color": "Black",
+            "item_origin": "Made in Italy",
+            "item_brand": "Maybelline",
+            "item_image_url": "https://images.unsplash.com/photo-1567433517180-d3e56cf7f81e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvc21ldGljc3xlbnwwfHwwfHx8MA%3D%3D",
+            "item_care": "Éviter le contact direct avec les yeux.",
+            "item_stock": 40
+        },
+        
+        {
+            "item_id": "L10",
+            "item_name": "Smooth Foundation",
+            "item_category": "body",
+            "item_description": "Fond de teint liquide pour un teint parfait et uniforme. Convient à tous les types de peau.",
+            "item_price": "€35.00",
+            "item_size": ["30ml"],
+            "item_color": "Natural",
+            "item_origin": "Made in Germany",
+            "item_brand": "L'Oréal",
+            "item_image_url": "https://plus.unsplash.com/premium_photo-1679064286466-6e1ee9d3a44d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNvc21ldGljc3xlbnwwfHwwfHx8MA%3D%3D",
+            "item_care": "Appliquer avec une éponge ou un pinceau propre.",
+            "item_stock": 20
+        },
+
+        {
+            "item_id": "L11",
+            "item_name": "Makeup Brushes Set",
+            "item_category": "body",
+            "item_description": "Ensemble de pinceaux de maquillage professionnels pour les yeux, les joues, et les lèvres. Poils synthétiques de haute qualité.",
+            "item_price": "€50.00",
+            "item_size": ["Set of 10"],
+            "item_color": "Black",
+            "item_origin": "Made in UK",
+            "item_brand": "MAC",
+            "item_image_url": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvc21ldGljc3xlbnwwfHwwfHx8MA%3D%3D",
+            "item_care": "Laver régulièrement avec un nettoyant doux et de l'eau.",
+            "item_stock": 15
+        },
+
+        {
+            "item_id": "L12",
+            "item_name": "Moisturizing Body Cream",
+            "item_category": "body",
+            "item_description": "Crème hydratante riche pour le corps, parfaite pour tous les types de peau, surtout les peaux sèches. Hydrate et nourrit en profondeur.",
+            "item_price": "€28.00",
+            "item_size": ["200ml"],
+            "item_color": "White",
+            "item_origin": "Made in Spain",
+            "item_brand": "Nivea",
+            "item_image_url": "https://images.unsplash.com/photo-1590439471364-192aa70c0b53?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ym9keSUyMGNhcmV8ZW58MHx8MHx8fDA%3D%3D",
+            "item_care": "Appliquer après le bain sur une peau propre et sèche.",
+            "item_stock": 25
         }
+        
+        
+        
+        
     ]
   }
