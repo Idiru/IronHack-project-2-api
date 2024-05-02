@@ -129,8 +129,8 @@
         },
         {
             "item_id": "L04",
-            "item_name": "pets",
-            "item_category": "pet food",
+            "item_name": "Cat Crunchies",
+            "item_category": "pets",
             "item_description": "Sachet de croquettes sèches pour chats, enrichies en vitamines et minéraux essentiels pour une alimentation équilibrée. Convient aux chats adultes de toutes races.",
             "item_price": "€12.50",
             "item_size": ["500g", "1kg", "2kg"],
@@ -144,8 +144,8 @@
 
         {
             "item_id": "L05",
-            "item_name": "pets",
-            "item_category": "pet food",
+            "item_name": "Doggy Dinners",
+            "item_category": "pets",
             "item_description": "Boîte de pâtée pour chiens, avec morceaux de viande tendre en sauce, pour chiens adultes. Fournit une alimentation complète et équilibrée.",
             "item_price": "€15.00",
             "item_size": ["400g", "800g"],
@@ -257,9 +257,6 @@
             "item_care": "Appliquer après le bain sur une peau propre et sèche.",
             "item_stock": 25
         }
-        
-        
-        
         
     ]
   }
